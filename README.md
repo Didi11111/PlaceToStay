@@ -1,2 +1,0 @@
-# PlaceToStay
-Next.js Project
